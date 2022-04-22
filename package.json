@@ -19,8 +19,10 @@
     "url": "https://github.com/Loopydevs/loopybot/issues"
   },
   "homepage": "https://github.com/Loopydevs/loopybot#readme",
+  "type": "module",
   "dependencies": {
     "@discordjs/rest": "^0.4.1",
+    "axios": "^0.26.1",
     "discord-api-types": "^0.31.2",
     "discord.js": "^13.6.0",
     "dotenv": "^16.0.0"
